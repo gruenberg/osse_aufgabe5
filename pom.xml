@@ -59,7 +59,7 @@ plugin>
 <archive>
 <manifest>
 <addClasspath>true</addClasspath>
-<mainClass>de.hfu.IHREHAUPTKLASSE</mainClass>
+<mainClass>de.hfu.Main</mainClass>
 </manifest>
 </archive>
 </configuration>
